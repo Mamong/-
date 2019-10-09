@@ -1,11 +1,18 @@
 {
-    "list":[
-        {
-            "voice_tag":"461期",
-            "author_name":"作者：刘瑜  主播：留儿",
-            "title":"一个人要像一支队伍",
-            "cover":"http://voice.meiriyiwen.com/upload_imgs/461_img_250.jpg"
-        }
-
-    ]
+    "status": {
+        "code": 1001,
+        "message": "ok"
+    },
+    "result": {
+        "isEnd":false,
+        "wp":"",
+        "list": [
+            {
+                "voice_tag": "461期",
+                "author_name": "作者：刘瑜  主播：留儿",
+                "title": "一个人要像一支队伍",
+                "cover": "http://voice.meiriyiwen.com/upload_imgs/461_img_250.jpg"
+            }
+        ]
+    }
 }
