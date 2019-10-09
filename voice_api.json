@@ -8,11 +8,19 @@
         "wp":"",
         "list": [
             {
-                "voice_tag": "461期",
-                "author_name": "作者：刘瑜  主播：留儿",
+                "tag": "461期",
+                "author": "作者：刘瑜  主播：留儿",
                 "title": "一个人要像一支队伍",
-                "cover": "http://voice.meiriyiwen.com/upload_imgs/461_img_250.jpg"
-            }
+                "cover": "http://voice.meiriyiwen.com/upload_imgs/461_img_250.jpg",
+                "voice":"http://static.meiriyiwen.com/20170209.mp3"
+            },
+            {
+                "tag": "460期",
+                "author": "作者：铁凝  主播：浅思",
+                "title": "孤独温暖旅程",
+                "cover": "http://voice.meiriyiwen.com/upload_imgs/461_img_250.jpg",
+                "voice":"http://static.meiriyiwen.com/20170105.mp3"
+            },
         ]
     }
 }
